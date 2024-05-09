@@ -1,0 +1,13 @@
+node_modules
+__pycache__
+por_den
+bin
+files
+include
+lib
+share
+ipython.txt
+*.exe
+package-lock.json
+package.json
+tailwind.config.js
